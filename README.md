@@ -6,11 +6,11 @@
 Glad you made it! I'm an incoming Software Engineer Intern @ Microsoft, aspiring [writer](https://medium.com/@fidelhen), and forward-thinking coder with experience in generating business solutions. Want to grab a virtual coffee together? Connect with me on [LinkedIn](https://www.linkedin.com/in/fidelhen/)!
 
 ### My goals: ###
--[x] Get a job offer from dream company
--[x] Attempt to launch startup
--[] Finish Web-Development bootcamp course
--[] Build personal website portfolio
--[] Graduate college with a B.S. in Computer Science
+ Markup : -[x] Get a job offer from dream company
+          -[x] Attempt to launch startup
+          -[] Finish Web-Development bootcamp course
+          -[] Build personal website portfolio
+          -[] Graduate college with a B.S. in Computer Science
 
 ### Languages & tools: ###
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
