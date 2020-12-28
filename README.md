@@ -21,3 +21,4 @@ Glad you made it! I'm an incoming Software Engineer Intern @ Microsoft, aspiring
 
 ### Github Stats: ###
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=fidelhen&show_icons=true&hide_title=true&hide_border=true&icon_color=faad14" alt="fidelhen" />
+![visitors](https://visitor-badge.glitch.me/badge?page_id=fidelhen.fidelhen)
