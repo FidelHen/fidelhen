@@ -8,9 +8,10 @@ Glad you made it! I'm an incoming Software Engineer Intern @ Microsoft, aspiring
 ### My goals: ###
 - [x] Get a job offer from dream company
 - [x] Attempt to launch startup
-- [ ] Finish Web-Development bootcamp course
+- [ ] Finish ["Web-Development bootcamp course"](https://www.udemy.com/course/the-complete-web-development-bootcamp/ "Web-Development bootcamp course")
 - [ ] Build personal website portfolio
 - [ ] Graduate college with a B.S. in Computer Science
+- [ ] Finish reading ["Can't Hurt Me"](https://www.amazon.com/Cant-Hurt-Me-Master-Clean/dp/1544507852/ref=sr_1_1?dchild=1&keywords=cant+hurt+me&qid=1609180553&sr=8-1 "Can't Hurt Me") by David Goggins
 
 ### Languages & tools: ###
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
