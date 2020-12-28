@@ -4,3 +4,5 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Fidelhen@gmail.com)
 
 Glad you made it! I'm an incoming Software Engineer Intern @ Microsoft, aspiring [writer](https://medium.com/@fidelhen), and full-time curious coder. Want to grab a virtual coffee together? Connect with me on [LinkedIn](https://www.linkedin.com/in/fidelhen/)!
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=fidelhen&show_icons=true&theme=gotham" alt="fidelhen" />
