@@ -1,4 +1,4 @@
-# Hi I'm Fidel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hi I'm Fidel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ![](https://hit.yhype.me/github/profile?user_id=33554268)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Fidelhen/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Fidelhen)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Fidelhen@gmail.com)
@@ -21,4 +21,3 @@ Glad you made it! I'm an incoming Software Engineer Intern @ Microsoft, aspiring
 
 ### Github Stats: ###
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=fidelhen&show_icons=true&hide_title=true" alt="fidelhen" />
-![](https://hit.yhype.me/github/profile?user_id=33554268)
