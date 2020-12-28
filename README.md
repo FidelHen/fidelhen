@@ -21,4 +21,4 @@ Glad you made it! I'm an incoming Software Engineer Intern @ Microsoft, aspiring
 
 ### Github Stats: ###
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=fidelhen&show_icons=true&hide_title=true" alt="fidelhen" />
-![View Counter](https://komarev.com/ghpvc/?username=fidelhen&style=flat-square)
+![](https://komarev.com/ghpvc/?username=fidelhen&style=flat-square)
