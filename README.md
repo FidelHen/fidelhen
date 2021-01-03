@@ -2,6 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Fidelhen/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Fidelhen)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Fidelhen@gmail.com)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCRIoFDQW6sa_uqZanqD58ZA)
 
 Glad you made it! I'm an incoming Software Engineer Intern @ Microsoft, aspiring [writer](https://medium.com/@fidelhen), and forward-thinking coder with experience in generating business solutions. Want to grab a virtual coffee together? Connect with me on [LinkedIn](https://www.linkedin.com/in/fidelhen/)!
 
