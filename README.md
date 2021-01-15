@@ -9,7 +9,6 @@ Glad you made it! I'm an incoming Software Engineer Intern @ Microsoft, aspiring
 ### My goals: ###
 - [x] ~Get a job offer from dream company~
 - [x] ~Attempt to launch startup~
-- [ ] Push to GitHub for a year
 - [ ] Finish ["Web-Development bootcamp course"](https://www.udemy.com/course/the-complete-web-development-bootcamp/ "Web-Development bootcamp course")
 - [ ] Build personal website portfolio
 - [ ] Graduate college with a B.S. in Computer Science
