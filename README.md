@@ -25,7 +25,6 @@ Glad you made it! I'm an incoming Software Engineer Intern @ Microsoft, aspiring
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Github Stats: ###
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=fidelhen&show_icons=true&hide_title=true&hide_border=true&icon_color=faad14" alt="fidelhen" />
