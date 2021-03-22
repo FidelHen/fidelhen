@@ -9,10 +9,9 @@ Glad you made it! I'm an incoming Software Engineer Intern @ Microsoft, aspiring
 ### My goals: ###
 - [x] ~Get a job offer from dream company~
 - [x] ~Attempt to launch startup~
-- [ ] Finish ["Web-Development bootcamp course"](https://www.udemy.com/course/the-complete-web-development-bootcamp/ "Web-Development bootcamp course")
+- [x] Finish ["Web-Development bootcamp course"](https://www.udemy.com/course/the-complete-web-development-bootcamp/ "Web-Development bootcamp course")
 - [ ] Build personal website portfolio
 - [ ] Graduate college with a B.S. in Computer Science
-- [x] ~Finish reading ["Can't Hurt Me"](https://www.amazon.com/Cant-Hurt-Me-Master-Clean/dp/1544507852/ref=sr_1_1?dchild=1&keywords=cant+hurt+me&qid=1609180553&sr=8-1 "Can't Hurt Me") by David Goggins~
 
 ### Languages & tools: ###
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -25,6 +24,12 @@ Glad you made it! I'm an incoming Software Engineer Intern @ Microsoft, aspiring
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+### Library ###
+- [x] ~["Can't Hurt Me"](https://www.amazon.com/Cant-Hurt-Me-Master-Clean/dp/1544507852/ref=sr_1_1?dchild=1&keywords=cant+hurt+me&qid=1609180553&sr=8-1 "Can't Hurt Me") by David Goggins~
+- [ ] ~["Zero to One"] (https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?dchild=1&keywords=zero+to+one&qid=1616451372&sr=8-1) by Peter Thiel
+- [ ] ~["Deep Work"] (https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?dchild=1&keywords=zero+to+one&qid=1616451372&sr=8-1) by Cal Newport
+- [ ] ~["No More Mr.Nice Guy] (https://www.amazon.com/No-More-Mr-Nice-Guy/dp/0762415339/ref=sr_1_1?crid=3J97AZ3YCUU5Z&dchild=1&keywords=no+more+mr+nice+guy&qid=1616451513&sprefix=no+more+%2Caps%2C192&sr=8-1) by Robert A. Glover
 
 ### Github Stats: ###
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=fidelhen&show_icons=true&hide_title=true&hide_border=true&icon_color=faad14" alt="fidelhen" />
