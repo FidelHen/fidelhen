@@ -25,7 +25,7 @@ Glad you made it! I'm an incoming Software Engineer Intern @ Microsoft, aspiring
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-### Library ###
+### Personal library ###
 - [x] ~["Can't Hurt Me"](https://www.amazon.com/Cant-Hurt-Me-Master-Clean/dp/1544507852/ref=sr_1_1?dchild=1&keywords=cant+hurt+me&qid=1609180553&sr=8-1 "Can't Hurt Me") by David Goggins~
 - [ ] ["Zero to One"](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?dchild=1&keywords=zero+to+one&qid=1616451372&sr=8-1) by Peter Thiel
 - [ ] ["Deep Work"](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?dchild=1&keywords=zero+to+one&qid=1616451372&sr=8-1) by Cal Newport
