@@ -27,6 +27,7 @@ Glad you made it! I'm an incoming Software Engineer Intern @ Microsoft, aspiring
 
 ### Personal library ###
 - [x] ~["Can't Hurt Me"](https://www.amazon.com/Cant-Hurt-Me-Master-Clean/dp/1544507852/ref=sr_1_1?dchild=1&keywords=cant+hurt+me&qid=1609180553&sr=8-1 "Can't Hurt Me") by David Goggins~
+- [x] - [x] ~["The Subtle Art of Not Giving A F*uk"](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713/ref=sr_1_1?crid=YW702T5JXD09&dchild=1&keywords=the+subtle+art+of+not+giving+a+fck&qid=1617638831&sprefix=the+sub%2Caps%2C172&sr=8-1) by Mark Manson~
 - [ ] ["Zero to One"](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?dchild=1&keywords=zero+to+one&qid=1616451372&sr=8-1) by Peter Thiel
 - [ ] ["Deep Work"](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?dchild=1&keywords=zero+to+one&qid=1616451372&sr=8-1) by Cal Newport
 - [ ] ["No More Mr.Nice Guy](https://www.amazon.com/No-More-Mr-Nice-Guy/dp/0762415339/ref=sr_1_1?crid=3J97AZ3YCUU5Z&dchild=1&keywords=no+more+mr+nice+guy&qid=1616451513&sprefix=no+more+%2Caps%2C192&sr=8-1) by Robert A. Glover
