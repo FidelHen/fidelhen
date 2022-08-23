@@ -10,8 +10,8 @@ Glad you made it! I'm an incoming Software Engineer Intern @ Microsoft, aspiring
 - [x] Get a job offer from dream company
 - [x] Attempt to launch startup
 - [x] Finish ["Web-Development bootcamp course"](https://www.udemy.com/course/the-complete-web-development-bootcamp/ "Web-Development bootcamp course")
-- [ ] Build personal website portfolio
-- [ ] Graduate college with a B.S. in Computer Science
+- [x] Build personal website portfolio
+- [x] Graduate college with a B.S. in Computer Science
 
 ### Languages & tools: ###
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
