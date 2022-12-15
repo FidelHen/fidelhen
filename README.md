@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Fidelhen@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCRIoFDQW6sa_uqZanqD58ZA)
 
-Glad you made it! I'm an incoming Software Engineer Intern @ Microsoft, aspiring [writer](https://medium.com/@fidelhen), and forward-thinking coder with experience in generating business solutions. Want to grab a virtual coffee together? Connect with me on [LinkedIn](https://www.linkedin.com/in/fidelhen/)!
+Glad you made it! I'm an incoming Software Engineer @ Microsoft, aspiring [writer](https://medium.com/@fidelhen), and forward-thinking coder with experience in generating business solutions. Want to grab a virtual coffee together? Connect with me on [LinkedIn](https://www.linkedin.com/in/fidelhen/)!
 
 ### My goals: ###
 - [x] Get a job offer from dream company
